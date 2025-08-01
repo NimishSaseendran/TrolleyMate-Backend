@@ -16,6 +16,11 @@
     "express": "^5.1.0",
     "mongoose": "^8.16.3",
     "multer": "^2.0.1",
+    "nodemailer": "^7.0.5",
+    "pdfkit": "^0.17.1",
+    "razorpay": "^2.9.6",
+    "stream-buffers": "^3.0.3",
+    "twilio": "^5.8.0",
     "xlsx": "^0.18.5"
   },
   "devDependencies": {
